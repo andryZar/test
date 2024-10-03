@@ -1,0 +1,677 @@
+[33mcommit 11822fb63481a7ca318aa3da84ce46ad89d78914[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Lrapa99 <luisrapalino88@gmail.com>
+Date:   Thu Oct 3 10:19:05 2024 -0500
+
+    adminlte
+
+[33mcommit 9e4e4607e1a904e61a0300ab8d89bfeba348f1bf[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Fri Mar 1 11:24:15 2024 +0700
+
+    Adding more table for curd example
+
+[33mcommit 9e30e49b4594d8b13d5e5aa246a9c4b4c1697f54[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Fri Mar 1 11:21:57 2024 +0700
+
+    Adding Really Simple CRUD Example
+
+[33mcommit 20058e3f7187c2053ab4e51ac93a449e26974716[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Fri Mar 1 11:12:59 2024 +0700
+
+    Fixing some error on insert and delete method
+
+[33mcommit b5406f384f2bc74678eea5523042e19918f0d417[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Fri Mar 1 11:11:51 2024 +0700
+
+    Adding custom array helper for MY_Model Core
+
+[33mcommit f6140b5e9a9fad9e7eacef2a7551e18d5ba542c9[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Fri Mar 1 11:10:48 2024 +0700
+
+    Fixing some error on insert and delete method
+
+[33mcommit 927182ddeaaa93688c8347c4f91d73c559a37cd0[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Fri Mar 1 11:01:04 2024 +0700
+
+    Adding condition when accessing class in body
+
+[33mcommit af8c159ac54b8ae94293b93fe6535c91e6e7bb18[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 13:15:19 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit 4372849023f94eb79665d654a1afd081fc79f2d7[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 13:12:44 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit 5a92ff7926dcaaffa38017c304da5442e453cc1c[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 13:10:11 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit 936f346d14fe9cd42ca988aac3e62161dd88812f[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 13:09:32 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit eb41e7aa420a663d682c2cf7497b4f05398e189d[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 13:08:52 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit 7d2762f2e6c23ab5e844f41e09513954d75b552c[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 13:07:50 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit d6db2b338c3befdede28cf66e2217a79e09e17a5[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 13:07:33 2024 +0700
+
+    Changing some model index
+
+[33mcommit ae1292e7bd635eed4374004ad6916b90efc5854c[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 13:06:50 2024 +0700
+
+    Minor update
+
+[33mcommit 47db257e0c564effd61ac1e6f1484638c2af30d6[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 11:14:38 2024 +0700
+
+    Minor update
+
+[33mcommit bc5e5f7a020079daf2904134c65aeae043bcef72[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 11:12:09 2024 +0700
+
+    Minor update
+
+[33mcommit 422dae3ed332ef50fcda25ab1cc010be37d212ff[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 11:09:41 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit d7470cd5d0f9af84aa0eda9dfe37d2a42dc0cdb2[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 11:08:02 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit dc9fd835ec864ecda9c31a5c19b3a9956b5ce417[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 11:03:47 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit b69f6b783a9e617c0bc752e447c4105cb1f23155[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 11:03:03 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit 1cb9e410f246b50941bd9fddf23566e0783b9c6a[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 10:58:04 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit 644e1da01ac65cc2e3ef948cdd706b02b2d42275[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 10:33:17 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit e03f5515f9df755024d3469822cbff7b3afb8a46[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 10:17:03 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit 78a01dfb80f16579f0dbab46b1e886a9b3d3f9c9[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 10:14:55 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit b869809b3943317a9d9b7f3bb0be19bcf48e34d3[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 10:09:51 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit 1823291613681032a700a952af97e39a1febc511[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 10:08:07 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit 5d3c60f42bb1dc605e31c6eab598ec4b993d726f[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 10:04:23 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit e2c8f92308a772875ff8b85483ee48d39a84f0db[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 10:03:23 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit a7f1683601f693fd40654385ad5562c6edff086e[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 09:53:14 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit 2eabec193ea97bd9d9eaf184a04fe35a60a37b12[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 09:51:38 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit f1e06dae40a2cf5affdc659ec21ca3999d7ee70a[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Feb 28 09:16:32 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit c8b4616d8ff55ea73e78303a090fde276d7450f5[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 14:02:00 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit 5cce0ce35adfe1aa2c06f1ebf9031ad4a5d9cddc[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:53:24 2024 +0700
+
+    Adding MY_Model Usage Documentation
+
+[33mcommit 3d333ddfbf3bed5e714a7a443dafbb7fdfc3e701[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:52:48 2024 +0700
+
+    Removing tag checker in tag_class function
+
+[33mcommit a498916b4b287ad120b96530cfc7bfbb1d131605[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:46:12 2024 +0700
+
+    Adding isset checker when accessing  variable
+
+[33mcommit 4ff84ab185464cd8107e4523edd6a3805fd8483d[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:44:51 2024 +0700
+
+    Removing tag checker in tag_class function
+
+[33mcommit 69985c1605843896f2042a764b9ae3d40cf8957d[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:41:34 2024 +0700
+
+    change from public to private table_name and id_column_name_with_alias
+
+[33mcommit 129b7ead80ccc466906f5dc8e66443ee9c7640f5[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:40:32 2024 +0700
+
+    change from public to private table_name and id_column_name_with_alias
+
+[33mcommit c95f22f36c8d24226ad3bf1563213d2559eb6e5f[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:26:12 2024 +0700
+
+    Adding Documentation for Model Usage
+
+[33mcommit e9e2afceb9fe570fdf434be3740c0041e00a08b6[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:25:54 2024 +0700
+
+    Adding Documentation for Model Usage
+
+[33mcommit 9241621418283d51838e21caa55996c43f54171b[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:24:16 2024 +0700
+
+    Adding Documentation for Model Usage
+
+[33mcommit 74a9c8d0be1cd643956a3aad510549fcdd5b4452[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:16:49 2024 +0700
+
+    Adding Documentation for Model Usage
+
+[33mcommit 5f34286b423269f6a323122db25f90df28c986e3[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:10:20 2024 +0700
+
+    Adding Documentation for Model Usage
+
+[33mcommit aec4cd08bc80cf204c92e42150e3545fb7687503[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:06:51 2024 +0700
+
+    Adding Documentation for Model Usage
+
+[33mcommit 9b5bb1feb8b683d6d96bf5908dd9cea89055d504[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:03:05 2024 +0700
+
+    Adding Documentation for Model Usage
+
+[33mcommit bbedce7bd9afdea36e0ddf0307679953f294f352[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 13:02:18 2024 +0700
+
+    Adding Documentation for Model Usage
+
+[33mcommit 56ac8b1b81743a05973cf0e1736295dd373c675a[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 12:59:04 2024 +0700
+
+    Adding Documentation for Model Usage
+
+[33mcommit f276e4545285a5e1e22df0126f3cdd71a1ca00b8[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 12:58:28 2024 +0700
+
+    Adding Documentation for Model Usage
+
+[33mcommit bbe674ca290a63694fd692ed6f53414a4abc2984[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 12:56:53 2024 +0700
+
+    Adding Documentation for Model Usage
+
+[33mcommit 0b169e4f9b2c6926cb3bac6e5201ad2c75304e63[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 12:53:18 2024 +0700
+
+    Adding Documentation for Model Usage
+
+[33mcommit cf29a2271bff632ae5a4d6f08ee958474bef84e3[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 12:49:22 2024 +0700
+
+    change from public to private table_name and id_column_name_with_alias
+
+[33mcommit 8c95c6f1696e9bb7c1ea1abad9b3d3202cdc5c2f[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Feb 27 12:48:18 2024 +0700
+
+    Adding Documentation for Model Usage
+
+[33mcommit c1f1b1c2e1e7259c6fb8955e045455842c3333f3[m
+Author: Lukman Wahyudi <lukman08119@gmail.com>
+Date:   Tue Feb 27 11:40:07 2024 +0700
+
+    Update README.md
+
+[33mcommit a560610f485fbabe956806ed2204941a6af1ed84[m
+Author: Lukman Wahyudi <lukman08119@gmail.com>
+Date:   Tue Feb 27 11:17:37 2024 +0700
+
+    Update README.md
+
+[33mcommit 695303dfcf077d62daed43bafd4db418c2c8288c[m
+Author: Lukman Wahyudi <lukman08119@gmail.com>
+Date:   Mon Feb 26 09:21:28 2024 +0700
+
+    Update README.md
+
+[33mcommit f238392275d82a75a15e91ded97ee1dc07bd4471[m
+Author: Lukman Wahyudi <lukman08119@gmail.com>
+Date:   Mon Feb 26 09:16:05 2024 +0700
+
+    Update README.md
+
+[33mcommit ce668e5025b00546555ca5eef2f3b92945f67626[m
+Author: Lukman Wahyudi <lukman08119@gmail.com>
+Date:   Mon Feb 26 09:15:32 2024 +0700
+
+    Update README.md
+
+[33mcommit 7e339c44f981111decdc3f3944ff85488b1ea898[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 30 11:21:50 2024 +0700
+
+    Adding page_css documentation
+
+[33mcommit 094ffd1d03518fdd824924fe4cd4f5dbed7a5572[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 30 10:56:15 2024 +0700
+
+    Adding custom page js and page css links on header and footer
+
+[33mcommit 61e08b633ff1c8a4ad04d9bd6739cf1b36b2f4bb[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 30 10:49:38 2024 +0700
+
+    Adding custom page css style function on Template
+
+[33mcommit 19e054059d47202e7fc083c329d5586e47064054[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 30 10:48:27 2024 +0700
+
+    Adding custom page function on Template
+
+[33mcommit 522cd8000bb876ba33df148470d0d4863102ec40[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 30 10:35:21 2024 +0700
+
+    Adding custom style on head
+
+[33mcommit 3835616fccaf192ebdb0f0fe28a967dbbb4ece50[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 30 10:33:51 2024 +0700
+
+    Adding flex and centered item on upper div
+
+[33mcommit f1b435c6ba3b220debbab98de0d1305d6562cbfb[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 30 10:12:14 2024 +0700
+
+    Adding custom error 404 Controller and View
+
+[33mcommit 2384ce5fa06b490e02bef7ec2370e2ebb10c5567[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 30 10:11:00 2024 +0700
+
+    Custome error 404
+
+[33mcommit 2a7121e54d9bac6de0f08fb744f8a7bb5d1d5ab9[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Thu Jan 25 09:18:25 2024 +0700
+
+    Adding Register Example
+
+[33mcommit 25ffd3914ace439612367c0f0865f91da01a4664[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Thu Jan 25 08:54:15 2024 +0700
+
+    Adding more documentation
+
+[33mcommit cbdd0183bfe978ff901dc5f569bf28d70425dc8b[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Thu Jan 25 08:53:44 2024 +0700
+
+    Adding more documentation
+
+[33mcommit a938bc9e2fc8c08fe766096bc0a04350bef412f6[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Thu Jan 25 08:51:49 2024 +0700
+
+    Adding more documentation
+
+[33mcommit 11c07f858ae1e46ceffe7d861c16e8bc5664af9d[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Thu Jan 25 08:51:18 2024 +0700
+
+    rename set_tag_class to tag_class
+
+[33mcommit 8a21bd181911c9908e95e1aa5355fe652a1dc60f[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Thu Jan 25 08:50:11 2024 +0700
+
+    rename set_tag_class to tag_class
+
+[33mcommit 4d5f6fc37a85f485265cf20ca4814d5c2e9eef17[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Jan 24 13:11:23 2024 +0700
+
+    Adding documentation for page_type, set_tag_class, and load method
+
+[33mcommit cf5e6d3c677692ec70971185bc198c8392837184[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Jan 24 13:10:21 2024 +0700
+
+    change set_class to set_tag_class
+
+[33mcommit a89a3e1170953be928b3a884f1210d5c2c2e98b8[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Jan 24 13:09:04 2024 +0700
+
+    Renaming set_class to set_tag_class
+
+[33mcommit 9963aa0ed11048a27e82aff6b45bfddd5d2bb554[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Jan 24 12:58:37 2024 +0700
+
+    adding custom body class value
+
+[33mcommit 5b998d19488a4864d6e0d6b419f57463f5b2dae3[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Jan 24 12:57:54 2024 +0700
+
+    Blank page structures
+
+[33mcommit 76a33189a58611f34153b3de08c52fb18ff4705a[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Jan 24 12:57:00 2024 +0700
+
+    Adding set_class function, page_type function, and page_type condition on load
+
+[33mcommit e57a14f7453777f53993ecb1b111bf9ca907b78a[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Jan 24 12:55:59 2024 +0700
+
+    Adding set_class function, page_type function, and page_type condition on load
+
+[33mcommit 69e95ef90648eb81a755b4ad6e61aff5ed9157a6[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Wed Jan 24 12:53:50 2024 +0700
+
+    Adding Login Page
+
+[33mcommit 0e49fcecd7f2ea2342f6570348ef2858c9f17b1e[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 13:35:56 2024 +0700
+
+    Adding more to Documentation
+
+[33mcommit e26a04b4147f685740a0719e0362f4c0e497bc34[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 12:56:35 2024 +0700
+
+    Adding more to Documentation
+
+[33mcommit 127367e3fc6b3357fea23e990baf08d909a5e0b4[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 12:41:42 2024 +0700
+
+    Adding more to Documentation
+
+[33mcommit 502bea36b8ff8df5ef9d289dc0be775b2a8851d8[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 12:37:23 2024 +0700
+
+    Adding more to Documentation
+
+[33mcommit 81a68f967f8aedbfc736f944381c90a72570111b[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 12:36:49 2024 +0700
+
+    Adding more to Documentation
+
+[33mcommit 11404aff46a6708a7cbc9228b35308653af3d5d2[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 12:34:27 2024 +0700
+
+    Adding more to Documentation
+
+[33mcommit eadb8a8348ad8223650ab2f44f7caf1804b35aaf[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 12:33:47 2024 +0700
+
+    Adding more to Documentation
+
+[33mcommit 11bd14949576f54f59271bc898af3066b579473c[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 12:30:35 2024 +0700
+
+    Adding more to Documentation
+
+[33mcommit 1819ab42310c359b762b8da8380231756acaf9a0[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 12:26:09 2024 +0700
+
+    Adding more Documentation
+
+[33mcommit 8dce94bcf6ce52dd434cc5b89a4fbce3b9b7ac5f[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 12:25:12 2024 +0700
+
+    Adding more Documentation
+
+[33mcommit f73dc19e709ea8ab20d66ab5095d0d1232e2c18f[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 12:20:54 2024 +0700
+
+    Adding more Documentation
+
+[33mcommit 9e2ee16cd96562e67ee7db4fe4cbfcc2201fc7a4[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 12:17:56 2024 +0700
+
+    Adding more Documentation
+
+[33mcommit bcd6629d74f47a5a46c7bb65ea6069efeddef201[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 12:16:12 2024 +0700
+
+    Adding more Documentation
+
+[33mcommit d80302ad2ec953e0b3a0ed33b621f2df8a881f33[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 12:15:30 2024 +0700
+
+    Adding more Documentation
+
+[33mcommit 3ce8b4ffd2b2d31e7da1a8c1adad66035d057f65[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 10:52:13 2024 +0700
+
+    Adding more Documentation
+
+[33mcommit 957ea5b71cfda5a01cae956f09fcbc50fa7e2918[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 10:47:25 2024 +0700
+
+    Adding more Documentation
+
+[33mcommit 4f4ffb313957cc811588338bf717983af57cb2fd[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 10:46:50 2024 +0700
+
+    Adding more Documentation
+
+[33mcommit ddddd280d7a1dacae576418a34e0d197fcdfff08[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 10:08:19 2024 +0700
+
+    Adding more Documentation
+
+[33mcommit 07e933771f441af745bcaacce7162940be2833e6[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 09:59:16 2024 +0700
+
+    Adding more Documentation
+
+[33mcommit 9f426d5be9458fec2cbf60ce0298890212889d94[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 09:54:07 2024 +0700
+
+    Adding more Documentation
+
+[33mcommit 402f83a551aed88f9a02bcba1dc239a8afe2c6a7[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 09:52:59 2024 +0700
+
+    Adding more Documentation
+
+[33mcommit 83115dd305028e7474d792d54ad770482e1b8c36[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Tue Jan 23 09:46:40 2024 +0700
+
+    Changing some here and there
+
+[33mcommit b6646cac8cdb761b35d4e79f05619c37ed94dc60[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Mon Jan 22 09:47:31 2024 +0700
+
+    Adding more to readme
+
+[33mcommit 9b05178ae21aba3900591578d08febc2b338e13d[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Mon Jan 22 09:24:20 2024 +0700
+
+    Adding license
+
+[33mcommit d6660c95016a2d14f32b88137a60327e34aae129[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Mon Jan 22 09:22:19 2024 +0700
+
+    Adding more to readme
+
+[33mcommit bdebe178a0b3c98f1f28d1dc7e6588e69b489033[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Mon Jan 22 09:21:32 2024 +0700
+
+    Adding more to readme
+
+[33mcommit 87a9e55f894c588ba3bc677b1579d30f1f449df1[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Mon Jan 22 09:14:29 2024 +0700
+
+    Adding demo database
+
+[33mcommit 913a5d4f0fd682fb802324b9999022b336b2f367[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Mon Jan 22 08:40:05 2024 +0700
+
+    Adding more to readme
+
+[33mcommit 84584517c0452f5414c570d0ac66559fb5321c30[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Mon Jan 22 08:39:05 2024 +0700
+
+    Adding more to readme
+
+[33mcommit a4e1373044cfe1a46b7ce217d0aa8fc83fdd39a9[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Mon Jan 22 08:37:08 2024 +0700
+
+    Adding more to readme
+
+[33mcommit 571e3e671f6b709b43b3e9642641c33831c7d4b4[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Mon Jan 22 08:30:06 2024 +0700
+
+    adding .env-test
+
+[33mcommit b036fd5eeabb99c3596a9f5ea8b5ad6f6234e7a4[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Mon Jan 22 08:28:40 2024 +0700
+
+    Readme
+
+[33mcommit 83a3e0def41ba4bd7578b6bb75a472941c45086b[m
+Author: oniseven <lukman08119@gmail.com>
+Date:   Fri Jan 19 13:58:09 2024 +0700
+
+    First Commit
